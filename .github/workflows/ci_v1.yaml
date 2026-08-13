@@ -21,4 +21,4 @@ jobs: # puede tener 1 o más jobs
         
       - name: Run test
         run: |
-          python -m unittest test/test-main.py
+          python -m unittest test/test_main.py
