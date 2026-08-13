@@ -8,7 +8,7 @@ on: # Indicamos el trigger
     
 jobs: # puede tener 1 o más jobs
   test:
-    run-on: ubuntu-latest #la maquina donde se hará la prueba
+    runs-on: ubuntu-latest #la maquina donde se hará la prueba
 
     steps:
       - name: Checkout_code
