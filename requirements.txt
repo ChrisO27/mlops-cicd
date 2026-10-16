@@ -2,3 +2,4 @@ flake8
 mypy
 nbconvert>=6.0.0 
 nbformat>=5.0.0
+radon
